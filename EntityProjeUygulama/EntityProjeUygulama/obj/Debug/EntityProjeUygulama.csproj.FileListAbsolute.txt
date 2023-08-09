@@ -1,0 +1,36 @@
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.exe.config
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.exe
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.pdb
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Form1.resources
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.exe
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.pdb
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.dll
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.xml
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.CopyComplete
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmAnaForm.resources
+C:\Users\Şafak Şahin\Desktop\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmUrun.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.exe.config
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityProjeUygulama.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Form1.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmAnaForm.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmIstatistik.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmUrun.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.csproj.CopyComplete
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\EntityProjeUygulama\EntityProjeUygulama\obj\Debug\EntityProjeUygulama.FrmGiris.resources
